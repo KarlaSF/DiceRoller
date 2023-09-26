@@ -1,0 +1,1 @@
+D:\Projetos\DiceRoller\DiceRoller\DiceRoller.csproj;x64
